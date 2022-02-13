@@ -1,7 +1,7 @@
-*This text will be italic*
-_This will also be italic_
+*I support barcelona*
 
-**This text will be bold**
-__This will also be bold__
 
-_You **can** combine them_
+**I play valorant**
+
+
+_Messi is the **GOAT**_
